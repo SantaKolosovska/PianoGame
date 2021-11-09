@@ -1,14 +1,14 @@
 # piano_game
 This is a game for musical ear training. A piano keyboard and a Play button is displayed. 
 When you press the Play button, a random note is played back. Then you have to find the 
-corresponding note on the keyboard. For now the random note and each note you play is 
+corresponding note on the keyboard. For now the random note and each note you play are 
 displayed in the console. The game is already playable as it is, you just need to resist 
-the tempation to look at the console before you've found the corresponding note. Tip: 
-when you've found the corresponding note, make sure it's the last played, so you'd know 
-which one was it. The correct note will be printed when you press the Play button (e.g. 
-"The correct answer is Do"). The notes for keys you press afterwards will be printed each 
-time you press a key (e.g. "Si"). WARNING: Play button plays back a different sound each 
-time it's being pressed, therefore you can't check again what was the sound being played. 
+the temptation to look at the console before you've found the corresponding note. 
+Tip: when you've found the corresponding note, make sure it's the last played, so you'd 
+know which one was it. The correct note will be printed when you press the Play button 
+(e.g. "The correct answer is Do"). The notes for keys you press afterwards will be printed 
+each time you press a key (e.g. "Si"). WARNING: Play button plays back a different sound 
+each time it's being pressed, therefore you can't check again what was the sound being played. 
 
 Future improvements:
 - menu 
