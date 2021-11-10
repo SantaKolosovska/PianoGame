@@ -22,10 +22,9 @@ keys to find the right note
 - displaying accumulated points while playing 
 - different color palettes to choose from
 - instead of one also two or three octaves could be used 
-
-
-- display chords (starting with simple major and minor chords)
-- find chords by ear like in the note game (playing three notes at a time would be
-too much to ask, so instead by pressing the root note the whole chord would be 
-played back and displayed (by darkening corresponding keys keys).
+- learn chords starting with simple major and minor chords
+- find chords by ear like in the note game. Asking the useer to play three notes at 
+a time would be too much to ask, so instead by pressing the root note the whole 
+chord would be played back and displayed (by darkening corresponding keys)
+- different key sounds to choose from
 
