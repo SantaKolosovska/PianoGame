@@ -1,16 +1,14 @@
 # piano_game
 
-This is my first independent project and it was made using Java Swing library, because 
-it's the first thing I found when looking for info on how to create what I want. From what I 
-understand this library is quite old and not really used nowadays.
-
 This is a tool for musical ear training. I've been playing musical instruments for years and 
 I've always had to ask someone to play me a random note, so I could test myself and find it. 
 People are not that willing to play random notes to me whenever I want, so I decided to make 
-this tool. 
+this tool. This is my first independent project and it was made using Java Swing library, because 
+it's the first thing I found when looking for info on how to create what I want. From what I 
+understand this library is quite old and not really used nowadays.
 
 This is what you'll see after running the project in IntelliJ IDEA or another IDE: 
-- A piano keyboard and a Play button is displayed. 
+- A window with piano keyboard and a Play button opens. 
 - When you press the Play button, a random note is played back and printed in console ("The 
 correct answer is ...") 
 - Now you have to find the corresponding note on the keyboard. Each time you press a key, it's 
