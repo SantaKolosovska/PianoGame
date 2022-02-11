@@ -1,11 +1,13 @@
-# piano_game
+# Piano Game
 
 This is a tool for musical ear training. I've been playing musical instruments for years and 
 I've always had to ask someone to play me a random note, so I could test myself and find it. 
 People are not that willing to play random notes to me whenever I want, so I decided to make 
 this tool. This is my first independent project and it was made using Java Swing library, because 
 it's the first thing I found when looking for info on how to create what I want. From what I 
-understand this library is quite old and not really used nowadays.
+understand this library is quite old and not really used nowadays. 
+
+This is how it looks in action: https://youtu.be/h459YrqBFKc
 
 This is what you'll see after running the project in IntelliJ IDEA or another IDE: 
 - A window with piano keyboard and a Play button opens. 
@@ -13,6 +15,8 @@ This is what you'll see after running the project in IntelliJ IDEA or another ID
 correct answer is ...") 
 - Now you have to find the corresponding note on the keyboard. Each time you press a key, it's 
 name is printed in the console. 
+
+![piano_game_screenshot](https://user-images.githubusercontent.com/86738044/153586274-a165e186-0c64-4672-8775-9ca94a31b5a0.jpg)
  
 The app is already usable as it is, you just need to resist the temptation to look at 
 the console before you've found what you think is the corresponding note. 
@@ -26,7 +30,13 @@ when the "Play" button was pressed).
 Warning: Play button plays back a different sound each time it's being pressed, therefore you can't 
 check again what was the sound being played. 
 
-Future improvements:
+
+## This is how it might look in the future 
+
+![JAVA PIANO5](https://user-images.githubusercontent.com/86738044/153586312-1eea8485-f9a1-4062-9316-9010f74dd8a1.png)
+
+
+## Future improvements:
 - displaying if answer was correct or not in the app screen not console
 - menu 
 - checkboxes for submitting the answer (in process)
